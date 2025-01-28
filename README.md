@@ -25,7 +25,7 @@ pip install gradio openai python-dotenv
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/akshada2712/LLM-Model-Evaluation.git
 ```
 
 2. Install dependencies:
